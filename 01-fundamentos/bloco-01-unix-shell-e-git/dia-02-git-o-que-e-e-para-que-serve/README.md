@@ -11,7 +11,7 @@ Vamos colocar em prática os seus conhecimentos sobre o Git. Para isso, crie um 
 * Retorne para a branch main e, em seguida, realize o merge das alterações por meio do comando `git merge nome-da-branch`, como em `git merge adiciona-readme`.
 Como você já criou a pasta e “mergeou” as alterações, vamos avançar e criar novas branches. Faça os exercícios a seguir.
 
-###Exercícios
+### Exercícios
 1. Acesse a branch main e crie uma branch nova chamada `atualiza-readme`.
 
 2. Acesse a branch `atualiza-readme` e crie um arquivo chamado `infos.txt`.

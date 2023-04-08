@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: [Unix, Shell e Git](https://github.com/deguilar/exercicios-trybe/tree/exercicios/1.2/01-fundamentos/bloco-01-unix-shell-e-git)
+##### Bloco 1: [Unix, Shell e Git](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-01-unix-shell-e-git)
 - [x] 1.1 - Unix & Shell
 - [x] 1.2 - Git - O que é e para que serve
 - [x] 1.3 - Git & GitHub - Entendendo os comandos

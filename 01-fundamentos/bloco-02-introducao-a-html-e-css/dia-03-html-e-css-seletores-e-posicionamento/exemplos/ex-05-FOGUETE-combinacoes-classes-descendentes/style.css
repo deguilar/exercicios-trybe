@@ -1,0 +1,75 @@
+/* 1.a - Faça com que todos os itens de Listas Ordenadas tenham uma cor de fundo amarela. */
+ol li{
+    background-color: yellow;
+}
+
+/* 1.b - Se a numeração do item for PAR, faça a cor de fonte ser verde. */
+ol li:nth-child(even) {
+    color: green;
+}
+
+/* 1.c - Se o número for considerado ÍMPAR, utilize a propriedade text-transform para deixar o texto maiúsculo. */
+ol li:nth-child(odd) {
+    text-transform: uppercase;
+}
+
+/* 2.a - Faça todas as tags Header (h1, h2…) possuírem cor de fonte vermelha e, se alguma delas estiver em itálico, aumente seu tamanho para 40px e acrescente uma borda de 1px preta e sólida. */
+h1, h3 {
+    color: red;
+}
+
+/* 2.b - Se alguma delas estiver em itálico, aumente seu tamanho para 40px e acrescente uma borda de 1px preta e sólida. */
+
+h1 em, h3 em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+/* 3.a - Faça todas as li’s terem 20px de tamanho de fonte */
+li {
+    font-size: 20px;
+}
+
+/* 3.b - E, para todo texto em itálico dentro de alguma li, utilize a propriedade font-weight para deixá-lo negrito. */
+li em {
+    font-weight: bold;
+}
+
+/* 4.a - Na listagem de linguagens de programação, faça com que as 3 primeiras da lista possuam cor de fonte azul  */
+
+/* Este seletor coloca a cor de font azul em todos os elementos exceto do 4 em diante */
+ul:nth-of-type(1) li:not(:nth-child(n + 4)) {
+    color: blue;
+}
+
+/* 4.b - E, se alguma possuir “java*” no texto, utilize uma cor de fundo rosa. */
+
+.java {
+    background-color: pink;
+}
+
+/* 5.a - (Bônus) Para cada link na lista de aliados da pessoa desenvolvedora, faça com que ao passar o mouse sobre cada um, o texto fique em negrito */
+ul:nth-of-type(2) li {
+    font-weight: 700;
+}
+
+/* 5.b - E assuma a cor de fonte “temática do site”  */
+ul:nth-of-type(2) li a[href*="stackoverflow"] {
+    color: orange;
+}
+
+ul:nth-of-type(2) li a[href*="w3schools"] {
+    color: green;
+}
+
+ul:nth-of-type(2) li a[href*="mozilla"] {
+    color: black;
+}
+
+ul:nth-of-type(2) li a[href*="devdocs"] {
+    color: yellow;
+}
+
+ul:nth-of-type(2) li a[href*="trybe"] {
+    color: green;
+}

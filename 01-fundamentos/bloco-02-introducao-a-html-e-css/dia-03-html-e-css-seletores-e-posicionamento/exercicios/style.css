@@ -1,0 +1,70 @@
+body {
+  background-color: #fefae0;
+}
+
+#links {
+    text-align: center;
+}
+
+.fontes {
+  font-family: montserrat, serif, sans-serif;
+}
+
+em {
+  color: rgb(67, 138, 83);
+}
+
+#numeros {
+  font-size: 20px;
+}
+
+#organizado {
+  font-size: 18px;
+}
+
+#ensinar {
+  font-size: 16px;
+}
+
+#curioso {
+  font-size: 14px;
+}
+
+#estudioso {
+  font-size: 12px;
+}
+
+/* 3 - Centralize seu nome na página; */
+h1 {
+  text-align: center;
+}
+
+/* 4 - Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página; */
+
+/* 2 - A descrição deve ficar ao lado da foto; */
+/* AQUI FLUTUEI A FOTO PARA A ESQUERDA */
+
+#andre-boston {
+  height: 280px;
+  float: left;
+  padding: 10px;
+  background-color: black;
+}
+
+#foto-e-descricao {
+  height: 300px;
+  position: relative;
+}
+
+#quem-sou {
+  position: absolute;
+  top: 20%;
+  right: 25px;
+  width: 500px;
+  text-align: center;
+}
+
+/* 6 - Coloque estilo somente nos itens ímpares da lista das suas habilidades. */
+ul li:nth-child(odd) {
+  background-color: aquamarine;
+}

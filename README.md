@@ -20,10 +20,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 2.4 - HTML Semântico
 - [x] 2.5 - [Projeto - Lessons Learned](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-02-introducao-a-html-e-css/dia-05-projeto-lessons-learned)
 
-##### Bloco 2: [Introdução à JavaScript](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript)
+##### Bloco 3: [Introdução à JavaScript](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript)
 - [ ] 3.1 - JavaScript - Primeiros passos
 - [ ] 3.2 - JavaScript - Array e loop For
 - [ ] 3.3 - JavaScript - Funções
 - [ ] 3.4 - JavaScript - Objetos
 - [ ] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 3.6 - [Projeto - Playground Functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript/dia-06-playgroung-functions)
+
+##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage)
+- [ ] 3.1 - JavaScript - DOM e seletores
+- [ ] 3.2 - JavaScript - Trabalhando com elementos
+- [ ] 3.3 - JavaScript - Eventos
+- [ ] 3.4 - JavaScript - Web Storage
+- [ ] 3.5 - [Projeto - Arte com Pixels](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-05-arte-com-pixels)
+- [ ] 3.6 - [Projeto - Projetos Bônus](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-06-projetos-bonus)

@@ -1,0 +1,132 @@
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Montserrat, serif, sans-serif;
+  font-size: 110%;
+  color: black;
+  line-height: 200%;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: #0b3f7a;
+}
+
+#minha_foto {
+  margin-top: 50px;
+  width: 300px;
+  border-radius: 100%;
+  border: 5px solid black;
+}
+
+nav {
+  margin-top: 50px;
+  text-align: center;
+}
+
+span {
+  font-size: 120%;
+  font-style: oblique;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+#secao {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  width: 40%;
+  vertical-align: top;
+  margin-right: 10px;
+}
+
+.lado-direito {
+  display: inline-block;
+  width: 40%;
+  margin-left: 10px;
+}
+
+#rodape {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-weight: 600;
+  font-size: 12px;
+  margin-top: 100px;
+}
+
+table {
+  width: 85%;
+  margin-top: 100px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+#licoes {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#licoes_aprendidas {
+  border: 2px solid black;
+  display: inline-block;
+  list-style: none;
+  margin-right: 80px;
+  padding-right: 40px;
+  background-image: linear-gradient(to right, #7fb5d8, #1061bd);
+  border-radius: 5px;
+}
+
+#licoes_a_aprender {
+  border: 2px solid black;
+  display: inline-block;
+  list-style: none;
+  margin-left: 80px;
+  padding-right: 40px;
+  background-image: linear-gradient(to right, #d87fb0, #b012b6);
+  border-radius: 5px;
+}
+
+h3 {
+  background-color: rebeccapurple;
+  color: white;
+  border-radius: 5px;
+}
+
+#photo {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#site-favorito {
+  border: none;
+  margin-top: 100px;
+}
+
+#w3 {
+  background-color: rebeccapurple;
+  padding: 20px 100px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #d87fb0;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+th {
+  background-color: rebeccapurple;border-radius: 5px;
+  color: white;
+}

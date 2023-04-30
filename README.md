@@ -29,9 +29,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 3.6 - [Projeto - Playground Functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript/dia-06-playgroung-functions)
 
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage)
-- [ ] 3.1 - JavaScript - DOM e seletores
-- [ ] 3.2 - JavaScript - Trabalhando com elementos
-- [ ] 3.3 - JavaScript - Eventos
-- [ ] 3.4 - JavaScript - Web Storage
-- [ ] 3.5 - [Projeto - Arte com Pixels](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-05-arte-com-pixels)
-- [ ] 3.6 - [Projeto - Projetos Bônus](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-06-projetos-bonus)
+- [ ] 4.1 - JavaScript - DOM e seletores
+- [ ] 4.2 - JavaScript - Trabalhando com elementos
+- [ ] 4.3 - JavaScript - Eventos
+- [ ] 4.4 - JavaScript - Web Storage
+- [ ] 4.5 - [Projeto - Arte com Pixels](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-05-arte-com-pixels)
+- [ ] 4.6 - [Projeto - Projetos Bônus](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-06-projetos-bonus)

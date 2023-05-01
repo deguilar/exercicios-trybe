@@ -57,3 +57,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
 - [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 - [ ] 7.6 - [Projeto - Zoo functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-07-higher-order-functions-do-javascript-es6/dia-06-projeto-zoo-functions)
+
+## Front-end :hourglass_flowing_sand:
+
+##### Bloco 1: [Introdução ao Frontend e JavaScript assíncrono](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-01-introducao-ao-front-end-e-javascript-assincrono)
+- [x] 1.1 - Ambiente de desenvolvimento
+- [x] 1.2 - JavaScript Assíncrono - Promises e fetch
+- [x] 1.3 - Prática - Casa de câmbio
+- [x] 1.4 - Async, await e testes assíncronos
+- [x] 1.5 - [Projeto - Carrinho de compras](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-01-introducao-ao-front-end-e-javascript-assincrono/dia-05-projeto-carrinho-de-compras)

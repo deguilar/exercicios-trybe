@@ -56,4 +56,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 7.3 - Higher Order Functions - filter e reduce
 - [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
 - [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
-- [ ] 7.6 - [Projeto - Trybewarts](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-07-higher-order-functions-do-javascript-es6/dia-06-projeto-zoo-functions)
+- [ ] 7.6 - [Projeto - Zoo functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-07-higher-order-functions-do-javascript-es6/dia-06-projeto-zoo-functions)

@@ -61,8 +61,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ## Front-end :hourglass_flowing_sand:
 
 ##### Bloco 8: [Introdução ao Frontend e JavaScript assíncrono](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-08-introducao-ao-front-end-e-javascript-assincrono)
-- [x] 8.1 - Ambiente de desenvolvimento
-- [x] 8.2 - JavaScript Assíncrono - Promises e fetch
-- [x] 8.3 - Prática - Casa de câmbio
-- [x] 8.4 - Async, await e testes assíncronos
-- [x] 8.5 - [Projeto - Carrinho de compras](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-08-introducao-ao-front-end-e-javascript-assincrono/dia-05-projeto-carrinho-de-compras)
+- [ ] 8.1 - Ambiente de desenvolvimento
+- [ ] 8.2 - JavaScript Assíncrono - Promises e fetch
+- [ ] 8.3 - Prática - Casa de câmbio
+- [ ] 8.4 - Async, await e testes assíncronos
+- [ ] 8.5 - [Projeto - Carrinho de compras](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-08-introducao-ao-front-end-e-javascript-assincrono/dia-05-projeto-carrinho-de-compras)
+
+##### Bloco 9: [Introdução ao React](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-09-introducao-ao-react)
+- [ ] 9.1 - 'Hello, world!' no React
+- [ ] 9.2 - Componentes React
+- [ ] 9.3 - [Projeto - Solar System](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-09-introducao-ao-react/dia-03-projeto-solar-system)
+
+##### Bloco 10: [Componentes com Estado, Eventos e Formulários com React](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-10-componentes-com-estado-eventos-e-formularios-com-react)
+- [ ] 10.1 - Componentes com estado e eventos
+- [ ] 10.2 - Formulários no React
+- [ ] 10.3 - [Projeto - Tryunfo](https://github.com/deguilar/exercicios-trybe/tree/main/02-front-end/bloco-10-componentes-com-estado-eventos-e-formularios-com-react/dia-03-projeto-tryunfo)

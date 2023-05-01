@@ -43,3 +43,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 5.4 - CSS Flexbox - Parte 2
 - [ ] 5.5 - Responsividade
 - [ ] 5.6 - [Projeto - Trybewarts](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-05-html-e-css-forms-flexbox-e-responsivo/dia-06-projeto-trybewarts)
+
+##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-06-introducao-a-javascript-es6-e-testes-unitarios)
+- [ ] 6.1 - Fluxo de exceções e manipulação de objetos
+- [ ] 6.2 - Primeiros passos em Jest
+- [ ] 6.3 - Matchers e cobertura de código
+- [ ] 6.4 - [Projeto - JavaScript Testes Unitários](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-06-introducao-a-javascript-es6-e-testes-unitarios/dia-04-projeto-javascript-testes-unitarios)
+
+##### Bloco 7: [Higher Order Functions do JavaScript ES6](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-07-higher-order-functions-do-javascript-es6)
+- [ ] 7.1 - Introdução a Higher Order Functions
+- [ ] 7.2 - Higher Order Functions - sort e map
+- [ ] 7.3 - Higher Order Functions - filter e reduce
+- [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
+- [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+- [ ] 7.6 - [Projeto - Trybewarts](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-07-higher-order-functions-do-javascript-es6/dia-06-projeto-zoo-functions)

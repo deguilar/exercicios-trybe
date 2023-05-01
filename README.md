@@ -35,3 +35,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 4.4 - JavaScript - Web Storage
 - [ ] 4.5 - [Projeto - Arte com Pixels](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-05-arte-com-pixels)
 - [ ] 4.6 - [Projeto - Projetos Bônus](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-06-projetos-bonus)
+
+##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-05-html-e-css-forms-flexbox-e-responsivo)
+- [ ] 5.1 - HTML & CSS - Forms
+- [ ] 5.2 - Bibliotecas JavaScript e Frameworks CSS
+- [ ] 5.3 - CSS Flexbox - Parte 1
+- [ ] 5.4 - CSS Flexbox - Parte 2
+- [ ] 5.5 - Responsividade
+- [ ] 5.6 - [Projeto - Trybewarts](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-05-html-e-css-forms-flexbox-e-responsivo/dia-06-projeto-trybewarts)

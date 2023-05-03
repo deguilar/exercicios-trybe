@@ -21,7 +21,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 2.5 - [Projeto - Lessons Learned](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-02-introducao-a-html-e-css/dia-05-projeto-lessons-learned)
 
 ##### Bloco 3: [Introdução à JavaScript](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript)
-- [ ] 3.1 - JavaScript - Primeiros passos
+- [x] 3.1 - JavaScript - Primeiros passos
 - [ ] 3.2 - JavaScript - Array e loop For
 - [ ] 3.3 - JavaScript - Funções
 - [ ] 3.4 - JavaScript - Objetos

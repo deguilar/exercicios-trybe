@@ -22,8 +22,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 3: [Introdução à JavaScript](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript)
 - [x] 3.1 - JavaScript - Primeiros passos
-- [ ] 3.2 - JavaScript - Array e loop For
-- [ ] 3.3 - JavaScript - Funções
+- [x] 3.2 - JavaScript - Array e loop For
+- [x] 3.3 - JavaScript - Funções
 - [ ] 3.4 - JavaScript - Objetos
 - [ ] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 3.6 - [Projeto - Playground Functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript/dia-06-playgroung-functions)

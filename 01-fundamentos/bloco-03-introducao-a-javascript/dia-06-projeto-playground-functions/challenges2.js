@@ -104,11 +104,4 @@ const hydrate = (phrase) => {
 
 console.log(hydrate('1 cachaça, 5 cervejas e 1 copo de vinho'));
 
-/* eslint no-undef: 0 */
 
-// Não modifique essas linhas
-module.exports = {
-  generatePhoneNumber: typeof generatePhoneNumber === 'function' ? generatePhoneNumber : (() => {}),
-  triangleCheck: typeof triangleCheck === 'function' ? triangleCheck : (() => {}),
-  hydrate: typeof hydrate === 'function' ? hydrate : (() => {}),
-};

@@ -26,7 +26,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3.3 - JavaScript - Funções
 - [x] 3.4 - JavaScript - Objetos
 - [x] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
-- [x] 3.6 - [Projeto - Playground Functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript/dia-06-playgroung-functions)
+- [x] 3.6 - [Projeto - Playground Functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript/dia-06-projeto-playgroung-functions)
 
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage)
 - [ ] 4.1 - JavaScript - DOM e seletores

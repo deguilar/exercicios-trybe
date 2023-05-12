@@ -29,7 +29,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3.6 - [Projeto - Playground Functions](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-03-introducao-a-javascript/dia-06-projeto-playground-functions)
 
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage)
-- [ ] 4.1 - JavaScript - DOM e seletores
+- [x] 4.1 - JavaScript - DOM e seletores
 - [ ] 4.2 - JavaScript - Trabalhando com elementos
 - [ ] 4.3 - JavaScript - Eventos
 - [ ] 4.4 - JavaScript - Web Storage

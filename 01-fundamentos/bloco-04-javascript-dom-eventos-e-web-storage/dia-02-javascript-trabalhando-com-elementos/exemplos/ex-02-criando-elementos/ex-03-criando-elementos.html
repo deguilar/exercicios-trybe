@@ -1,0 +1,56 @@
+
+<main id="paiDoPai">
+  <section id="pai">
+    <section id="primeiroFilho"></section>
+    <section id="elementoOndeVoceEsta">
+      <section id="primeiroFilhoDoFilho"></section>
+      <section id="segundoEUltimoFilhoDoFilho"></section>
+    </section>
+    Atenção!
+    <section id="terceiroFilho"></section>
+    <section id="quartoEUltimoFilho"></section>
+  </section>
+</main>
+<script>
+
+// 1 - Crie um irmão para elementoOndeVoceEsta. 
+const criandoIrmao = document.createElement('section'); // Crie um novo elemento
+
+criandoIrmao.id = 'criandoIrmao';
+criandoIrmao.innerText = 'oi';
+
+const pai1 = document.getElementById('pai'); // Recupere o elemento com o id pai
+
+pai1.appendChild(criandoIrmao); // Adicione o elemento criado como filho do elemento com o id `pai`
+
+//________________________________________________________________
+
+// 2 - Crie um filho para elementoOndeVoceEsta.
+const criandoFilho = document.createElement('section');
+
+criandoFilho.id = 'criandoFilho1';
+criandoFilho.innerText = 'Ei';
+
+const pai2 = document.getElementById('elementoOndeVoceEsta');
+pai2.appendChild(criandoFilho);
+
+//________________________________________________________________
+
+// 3 - Crie um filho para primeiroFilhoDoFilho.
+const criandoOutroFilho = document.createElement('section');
+
+criandoOutroFilho.id = 'criandoFilho2';
+criandoOutroFilho.innerText = 'Olá';
+
+const pai3 = document.getElementById('primeiroFilhoDoFilho');
+
+pai3.appendChild(criandoOutroFilho);
+
+//________________________________________________________________
+
+// 4 - A partir desse filho criado, acesse terceiroFilho.
+
+const acessando = document.getElementById('primeiroFilhoDoFilho').parentNode.nextSibling.nextSibling;
+console.log(acessando);
+
+</script>

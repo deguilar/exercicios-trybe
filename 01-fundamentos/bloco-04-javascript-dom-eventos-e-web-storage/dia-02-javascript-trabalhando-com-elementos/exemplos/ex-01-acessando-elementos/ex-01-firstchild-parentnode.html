@@ -1,0 +1,15 @@
+<!-- documento html -->
+<body>
+  <ul id="parent">
+    <li id="first-child">Primeiro filho</li>
+    <li id="second-child">Segundo filho</li>
+    <li id="third-child">Terceiro filho</li>
+  </ul>
+  <script src="script.js">
+// arquivo script.js
+const firstChild = document.getElementById('first-child');
+const parent = firstChild.parentNode;
+
+console.log(parent); // <ul id="parent">…</ul>
+
+</body>

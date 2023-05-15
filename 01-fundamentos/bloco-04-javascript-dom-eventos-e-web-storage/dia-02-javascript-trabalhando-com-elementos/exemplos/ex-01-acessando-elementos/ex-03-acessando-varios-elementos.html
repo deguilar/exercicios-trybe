@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <main id="parent-of-parent">
+    <section id="parent">
+      <section id="first-child"></section>
+      <section id="where-are-you">
+        <section id="first-child-of-child"></section>
+      </section>
+      Attention!
+      <section id="third-child"></section>
+      <section id="fourth-and-last-child"></section>
+    </section>
+  </main>
+
+  <script>
+    // 01 - Acesse o elemento where-are-you.
+    const whereAreYou = document.getElementById('where-are-you');
+    //console.log(whereAreYou); Dei console.log para ver se está certo, olhando no console do browser
+
+    // 02 - Acesse parent a partir de where-are-you e adicione uma color a ele.
+    const parent = document.getElementById('where-are-you').parentElement;
+    //console.log(parent);
+    parent.style.color = 'blue';
+
+    // 03 - Acesse o first-child-of-child e adicione um texto a ele. Você se lembra dos vídeos da aula anterior? Eles ensinam como fazer isso.
+    const firstChildOfChild = document.getElementById('first-child-of-child');
+    firstChildOfChild.innerText = 'VQV - Foguete não tem ré'
+
+    // 04 - Acesse o first-child a partir de parent.
+    const firstChild = document.getElementById('parent').firstElementChild;
+    //console.log(firstChild);
+
+    // 05 - Acesse o first-child a partir de where-are-you.
+    const acessandoFirst = document.getElementById('where-are-you').previousElementSibling;
+    //console.log(acessandoFirst);
+
+    // 06 - Acesse o texto Attention! a partir de where-are-you.
+    const attention = document.getElementById('where-are-you').nextSibling;
+    // console.log(attention);
+
+    // 07 - Acesse o third-child a partir de where-are-you.
+    const thirdChild = document.getElementById('where-are-you').nextElementSibling;
+    // console.log(thirdChild);
+
+    // 08 - Acesse o third-child a partir de parent.
+    const thirdChildParent = document.getElementById('parent').lastElementChild.previousElementSibling.previousElementSibling;
+    // console.log(thirdChildParent);
+
+  </script>
+</body>
+  

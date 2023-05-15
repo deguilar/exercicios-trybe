@@ -1,0 +1,51 @@
+<main id="father-of-father">
+    <section id="parent">
+      <section id="first-child">
+        <h2>Primeiro Filho</h2>
+      </section>
+      <section id="where-are-you">
+        <h2>Elemento que você deve remover</h2>
+      </section>
+      <section id="third-child">
+        <h2>Terceiro Filho</h2>
+      </section>
+      <section id="quartoEUltimoFilho">
+        <h2>Quarto Filho</h2>
+      </section>
+      
+    </section>
+</main>
+  <script>
+
+    // Remova a tag h2, filha do elemento where-are-you.
+
+    // Primeiro passo: Recupere o elemento com o id parent.
+    const parent = document.getElementById('parent');
+
+    // Segundo passo Utilize o .childNodes para retornar uma coleção viva de nós filhos do elemento parent.
+    const allChildren = parent.childNodes;
+
+      // Terceiro passo: Utilize uma estrutura de repetição para iterar sob o array allChildren.
+      // Quarto passo: Armazene o filho atual em uma variável.
+      /* Quinto passo: Caso o id do currentChild seja igual a where-are-you, remova o primeiro elemento do currentChild.
+
+      - Ao iterar sobre cada elemento do array currentChild, será verificado se o id é igual a where-are-you.
+      - O elemento a ser removido é a tag <h2> do currentChild que satisfez a condição estabelecida anteriormente.
+      - Utilize como parâmetro do removeChild o primeiro elemento do currentChild. */
+
+
+      for (let index = allChildren.length - 1; index >= 0; index -= 1) {
+        const currentChild = allChildren[index];
+
+        if (currentChild.id === 'where-are-you') { // verifica se o id do filho atual é igual a 'where-are-you'
+          currentChild.removeChild(currentChild.firstElementChild); // remove o primeiro elemento do filho atual, no caso a tag <h2>
+        }
+      }
+
+      /* Solução sem utilizar um laço for:
+
+      Você pode utilizar o seletor getElementById para selecionar o elemento com o Id where-are-you e empregar o método removeChild(): */
+
+      const parent2 = document.getElementById('where-are-you');
+        parent2.removeChild(parent2.firstElementChild);
+  </script>

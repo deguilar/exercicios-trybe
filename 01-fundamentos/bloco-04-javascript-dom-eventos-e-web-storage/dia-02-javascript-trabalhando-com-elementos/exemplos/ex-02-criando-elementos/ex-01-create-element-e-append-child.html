@@ -1,0 +1,30 @@
+<!--Arquivo index.html-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="parent">
+      <!--O novo elemento <li> vai aparecer aqui!-->
+    </div>
+    <script>
+      // Arquivo script.js
+
+      // Cria um novo elemento <li> e o armazena na variável newElement
+      let newElement = document.createElement('li');
+
+      // Acessa o novo elemento armazenado em newElement e altera seu conteúdo
+      newElement.innerHTML = 'Um texto para o novo elemento';
+
+      // Recupera o elemento que será o pai de newElement e o armazena na variável parent
+      let parent = document.getElementById('parent');
+
+      // Insere o novo elemento como filho de parent
+      parent.appendChild(newElement);
+    </script>
+</body>
+</html>

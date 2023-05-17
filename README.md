@@ -31,7 +31,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage)
 - [x] 4.1 - JavaScript - DOM e seletores
 - [x] 4.2 - JavaScript - Trabalhando com elementos
-- [ ] 4.3 - JavaScript - Eventos
+- [x] 4.3 - JavaScript - Eventos
 - [ ] 4.4 - JavaScript - Web Storage
 - [ ] 4.5 - [Projeto - Arte com Pixels](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-05-arte-com-pixels)
 - [ ] 4.6 - [Projeto - Projetos Bônus](https://github.com/deguilar/exercicios-trybe/tree/main/01-fundamentos/bloco-04-javascript-dom-eventos-e-web-storage/dia-06-projetos-bonus)
